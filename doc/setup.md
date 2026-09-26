@@ -13,7 +13,7 @@
 ## 1. Clone & Install
 
 ```bash
-git clone git@github.com:atharhive/Beam.git
+git clone https://github.com/alakaloops/beam/
 cd Beam
 bun install
 ```

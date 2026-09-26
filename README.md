@@ -56,7 +56,7 @@ Beam calculates the exact route via **Jupiter Aggregator** and constructs a **si
 
 ### 1. Clone & Install
 ```bash
-git clone git@github.com:atharhive/Beam.git
+git clone https://github.com/alakaloops/beam/
 cd Beam
 bun install
 ```
@@ -112,7 +112,7 @@ bun test
 ## Deployment Guide
 
 ### Deploying on Railway or Render
-1. Push your repository to GitHub (`git@github.com:atharhive/Beam.git`).
+1. Push your repository to GitHub (`https://github.com/alakaloops/beam/`).
 2. Create a new service on **Railway** or **Render** and link the repo.
 3. Configure settings:
    - **Build Command**: `bun install`
@@ -129,4 +129,4 @@ See [Setup Guide](doc/setup.md#6-production-deployment) for details.
 
 ## License
 
-MIT © 2026 [atharhive](https://github.com/atharhive)
+MIT © 2026
